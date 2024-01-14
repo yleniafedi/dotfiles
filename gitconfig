@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ylenia.fedi@gmail.com
+	name = ylenia fedi
